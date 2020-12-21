@@ -1,0 +1,1 @@
+<h1>{{ __( "test_mail_message" ) }}</h1>

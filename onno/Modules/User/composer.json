@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+
+    "require": {
+        "cartalyst/sentinel": "^3.0",
+        "laravel/socialite": "^4.2"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\User\\Providers\\UserServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\User\\": ""
+        }
+    }
+}

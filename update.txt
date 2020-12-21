@@ -1,0 +1,21 @@
+If you have already added content on your live site & and you decide to migrate content with new update Please create a ticket here with bellow details.
+
+Site URL.
+cPanel URL.
+cPanel Username.
+cPanel Password.
+Site Admin Email.
+Site Admin Password.
+
+if you do not have cPanel Then you have to provide bellow details instead of cPanel
+
+FTP Address/IP/URL.
+FTP Username.
+FTP Password.
+FTP Port.
+PHPMyAdmin URL/Address.
+database Username.
+Database Password.
+Database Name.
+
+Thanks
